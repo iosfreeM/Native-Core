@@ -25,7 +25,7 @@
 - iOS 26+ (обои .tendies)
 
 ## Установка
-1. Скачай `Native_Core_2_3_.ipa` из раздела [Releases](../../releases).
+1. Скачай `Native_Core.ipa` из раздела [Releases](../../releases).
 2. Установи через AltStore, SideStore, Sideloadly или другой сайдлоадер.
 
 ## Важно
